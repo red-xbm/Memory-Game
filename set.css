@@ -124,7 +124,17 @@ body {
     -moz-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
-
+p {
+    color: white;
+    text-align: center;
+    font: 13px;
+    padding: 10px 0;
+}
+p a {
+    text-decoration: none;
+    border-bottom: white 1px solid;
+    color:#fdfdfd8c;
+}
 
 
 
